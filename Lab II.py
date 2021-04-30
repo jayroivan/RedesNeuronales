@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr 29 18:48:38 2021
-
 Dataset Diferente al de la clase 11
 
-@author: frank
 """
 
 import pandas as pd
